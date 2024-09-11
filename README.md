@@ -4,12 +4,12 @@ This is a simple To-Do list application built using the Laravel framework.
 
 ## Installation
 
-1.a Clone the repository:
+1. a Clone the repository:
     ```bash
     git clone https://github.com/jkrajpootbdn94/todo-list-in-laravel
     ```
     OR
-1.b Clone by Composer:
+1. b Clone by Composer:
     ```bash
     composer require jugendra/laravel-todo
     ```
