@@ -11,7 +11,7 @@ This is a simple To-Do list application built using the Laravel framework.
     OR
 1. b Clone by Composer:
     ```bash
-    composer require jugendra/laravel-todo
+    composer create jugendra/laravel-todo
     ```
 2. Install dependencies:
     ```bash
