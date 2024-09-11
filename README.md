@@ -8,16 +8,15 @@ This is a simple To-Do list application built using the Laravel framework.
     ```bash
     git clone https://github.com/jkrajpootbdn94/todo-list-in-laravel
     ```
-    OR
-1. Create Project by Composer:
+2. Create Project by Composer:
     ```bash
     composer create jugendra/laravel-todo
     ```
-2. Install dependencies:
+### Install dependencies:
     ```bash
     composer install
     ```
-3. **Update `.env` file** with the following:
+### **Update `.env` file** with the following:
     ```bash
     APP_NAME=YourAppName
     APP_ENV=local
@@ -32,11 +31,11 @@ This is a simple To-Do list application built using the Laravel framework.
     DB_USERNAME=your-database-username
     DB_PASSWORD=your-database-password
     ```
-4. Run migrations:
+### Run migrations:
     ```bash
     php artisan migrate
     ```
-5. Start the development server:
+### Start the development server:
     ```bash
     php artisan serve
     ```
