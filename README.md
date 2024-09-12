@@ -12,11 +12,11 @@ This is a simple To-Do list application built using the Laravel framework.
     ```bash
     composer create jugendra/laravel-todo
     ```
-### Install dependencies:
+3. Install dependencies:
     ```bash
     composer install
     ```
-### **Update `.env` file** with the following:
+4. **Update `.env` file** with the following:
     ```bash
     APP_NAME=YourAppName
     APP_ENV=local
@@ -31,11 +31,11 @@ This is a simple To-Do list application built using the Laravel framework.
     DB_USERNAME=your-database-username
     DB_PASSWORD=your-database-password
     ```
-### Run migrations:
+5. Run migrations:
     ```bash
     php artisan migrate
     ```
-### Start the development server:
+6. Start the development server:
     ```bash
     php artisan serve
     ```
